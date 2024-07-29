@@ -62,7 +62,7 @@
 <ul>
 
 <li>
-<a href="linkedin.com/in/raul-daza-liñan-a697a9238" target="_blank">
+<a href="https://linkedin.com/in/raul-daza-liñan-a697a9238" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
