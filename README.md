@@ -14,6 +14,7 @@
 - Tramamiento de imagenes con OpenCV 2, tratamiento de señales con ScyPi, desarrollo de aplicaciones con CustomTkinter, machine learning con SKlearn y aprendizaje profundo con Tensorflow.
 - Actualmente aprendiendo aprendizaje profundo en Python y desarrollo backend con GO y SQL.
 - Desarrollo de aplicaciones de escritorio con QT creator y C++.
+- Estudiante de ingenieríá electrónica en la universidad de Antioquia.
 - Abierto a una oportunidad laboral.
 
 <br><br>
