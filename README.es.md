@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>¡Hola, soy Raúl Daza! 👋</b></h1> 
+<h1 align="center"><b>¡Hi, I'm Raúl Daza! 👋</b></h1> 
 
 🌐 Leer en otros idiomas: [English](README.md)
 
