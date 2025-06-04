@@ -1,4 +1,6 @@
-<h1 align="center"><b>¡Hola, soy Raul Daza! 👋</b></h1>
+<h1 align="center"><b>¡Hola, soy Raul Daza! 👋</b></h1> 
+
+🌐 Read this in other languages: [Español](README.es.md)
 
 <p align="center">🎓 Electronic Engineering Student | ⚙️ DSP & ML Enthusiast | 🧠 Passionate about AI, Computer Vision & Signal Processing</p>
 
