@@ -1,4 +1,4 @@
-<h1 align="center"><b>¡Hola, soy Raul Daza! 👋</b></h1> 
+<h1 align="center"><b>¡Hi, I'm Raul Daza! 👋</b></h1> 
 
 🌐 Read this in other languages: [Español](README.es.md)
 
